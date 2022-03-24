@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(110, 110, 110);
+    font-family: 'Roboto', sans-serif
+}
+.heading {
+    text-align:center;
+    font-size: 2rem;
+}
+.playground-heading {
+    color: white;
+}
+.main {
+    border: 2px solid rgb(255, 255, 255);
+    width: 50%;
+    margin: 0 auto;
+    padding: 15px;
+}
+.main div {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin: 1rem auto;
+}
+#red {
+    border-color: rgb(255, 0, 0);
+}
+#green {
+    border-color: rgb(0, 255, 0);
+}
+#blue {
+    border-color: rgb(0, 0, 255);
+}
+.footer {
+    text-align:center;
+    color: white;
+    margin-top: 40px;
+}
